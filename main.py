@@ -6,6 +6,7 @@ class TmpClass:
 
 if __name__ == "__main__":
     tmp_object = TmpClass()
-    print("name:", tmp_object.name)
-    print("name:", tmp_object.age)
+    print('name:', tmp_object.name)
+    print('name:', tmp_object.age)
+    print('Done!')
     
